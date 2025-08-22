@@ -4,15 +4,6 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
-Expand
-message.txt
-3 KB
-Download and login 
-https://tailscale.com/                                                                                                                                                                                                                                                                                                                                   sudo su  |      apt update && upgrade -y    |   apt  install bash     |   apt install curl 
-<                                                                                                                            Panel                                                                                                                                       >
-[OWNER] RasINGamerZ
-[VPS]
- — 8/11/2025 5:30 PM
 bash <(curl -s https://pterodactyl-installer.se)
 <                                                                                                                            Theme                                                                                                                                    >
 cd /var/www/pterodactyl
