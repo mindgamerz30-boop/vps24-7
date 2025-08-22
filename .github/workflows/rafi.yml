@@ -3,8 +3,7 @@ name: Continuous Persistent VPS
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:
-bash (curl -s https://pterodactyl-installer.se)                                                                                                                        Theme                                                                                                                                    >
+  workflow_dispatch:                                                                                                                                                                                                                                                      >
 cd /var/www/pterodactyl
 php artisan down
 ----------------------------------
